@@ -1,0 +1,7 @@
+# Set the default behavior, in case people don't have core.autocrlf set.
+* text=auto
+
+# TD source files may never be automerged
+*.apt -merge
+*.app -merge
+*.apl -merge
