@@ -2,8 +2,6 @@
 
 VERSION 1.10	17-11-2015
 
-
-
 **** DESCRIPTION ****
 
 This set of libraries contain Windows API function declarations and constants.
