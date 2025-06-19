@@ -63,16 +63,7 @@ Always check the availability of those API functions at client side, by determin
 **** REFERENCES ****
 
 The documentation on Windows API can be found on MSDN.
-There are a couple of "views" which list the API's differently:
-
-Functions in alphabetical order:
-http://msdn.microsoft.com/en-us/library/aa383688%28v=vs.85%29.aspx
-
-Functions per category:
-http://msdn.microsoft.com/en-us/library/aa383686%28v=vs.85%29.aspx
-
-Functions by Windows release:
-http://msdn.microsoft.com/en-us/library/aa383687%28VS.85%29.aspx
+There are a couple of "views" which list the API's differently
 
 And Goooooogle is your friend in getting info and samples !!
 
@@ -87,13 +78,6 @@ If you have API declarations which are not part of this archive, please collect 
 as source files so it will be added in future versions of this archive.
 This helps the community to have this archive more and more complete.
 When you find issues or incorrect declarations, please report this.
-
-Send new or changed declarations to:
-daverabelink@xs4all.nl
-
-Watch the sample vault for new versions:
-http://tdsamples.daverabelink.net/index.php?dir=WinApi32
-
 
 
 **** REVISION HISTORY ****
